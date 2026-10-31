@@ -28,9 +28,10 @@ This client changes your KRX Version hash, name. and lets u join servers like fo
 
 ## Quick Start
 
-1. Download the latest release files
-2. Open krx.exe
-3. Now join to any foxnet or another server, you are undetected now
+1. Download the latest `ofex-client.tar.gz`
+2. Extract the file
+3. Now if you on linux open terminal in the folder, type `chmod +x launch.sh` after that type, `./launch.sh` and wait until ofex opens
+4. If you on windows open launch.bat, and done!
 
 ---
 
